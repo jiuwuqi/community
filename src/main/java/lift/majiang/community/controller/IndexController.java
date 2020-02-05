@@ -1,4 +1,4 @@
-package lift.majiang.community.community.controller;
+package lift.majiang.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

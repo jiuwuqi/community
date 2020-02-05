@@ -1,4 +1,4 @@
-package lift.majiang.community.community;
+package lift.majiang.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
